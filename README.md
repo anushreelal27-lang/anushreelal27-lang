@@ -67,7 +67,7 @@
 
 - 📧 **Email:** [anushreelal27@gmail.com](mailto:anushreelal27@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/anushree-lal-a88a73293](https://www.linkedin.com/in/anushree-lal-a88a73293)  
-- 🧑‍💻 **GitHub:** [github.com/yourusername](#) *(replace with your GitHub link)*  
+- 🧑‍💻 **GitHub:** [https://github.com/anushreelal27-lang](https://github.com/anushreelal27-lang)   
 
 ---
 
